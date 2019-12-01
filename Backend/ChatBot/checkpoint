@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/edgar/Documents/CompositeNetwork/Backend/ChatBot/model.tflearn"
+all_model_checkpoint_paths: "/home/edgar/Documents/CompositeNetwork/Backend/ChatBot/model.tflearn"

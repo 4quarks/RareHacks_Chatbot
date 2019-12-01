@@ -1,0 +1,16 @@
+numpy
+nltk
+sklearn
+python-telegram-bot
+tflearn
+tensorflow
+spacy
+google_images_download
+textrank4zh
+python -m spacy download en_core_web_sm
+mysql-connector-python
+unidecode
+rake_nltk
+fpdf
+googletrans
+pycountry

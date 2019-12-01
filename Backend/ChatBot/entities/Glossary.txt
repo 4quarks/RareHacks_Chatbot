@@ -1,0 +1,69 @@
+Adjuvant Cancer Therapy: Adjuvant cancer therapy is a secondary or additional cancer treatment designed to lower the risk of cancer returning after surgery. For skin cancer, adjuvant cancer therapy, such as immunotherapy with interferon, chemotherapy or radiation, may follow a primary treatment such as surgery. Doctors often recommend adjuvant cancer therapy for those who have stage III or stage IV cancer.
+
+BRAF: This gene can mutate, or change, producing a mutated BRAF protein that leads to uncontrolled cancer cell growth. More than half of melanoma cases are linked to mutations in the BRAF gene. The so-called V600E mutation is quite common in these cases.
+
+BRAF Inhibitors: These medications can inhibit the effects of mutated BRAF proteins and slow down cancer growth even leading to tumor shrinkage in some patients.
+
+CDKN2A: This gene typically suppresses tumor growth. When it mutates, cancer cells can grow uncontrollably. Families with lengthy histories of melanoma may carry this gene mutation. CDKN2A stands for cyclin-dependent kinase inhibitor 2A.
+
+Chemotherapy: This systemic treatment uses drugs to stop the growth of cancer cells, either by destroying them or preventing them from dividing. Patients can receive chemotherapy in oral pill form or intravenously.
+
+Clinical Trial: This stage of research involving patients follows the completion of laboratory and animal studies. The goal is to determine if a medical treatment, device, or strategy is safe and effective for people to use. Researchers explore whether a treatment leads to improvements in outcome, no benefit, or potential harm.
+
+Combination Therapy: This treatment involves combining two or more treatments, such as two immunotherapy agents or two targeted therapy drugs, for more effective results.
+
+CTLA-4: This protein helps melanoma cells flourish by suppressing the immune system’s response to them. Immunotherapy can target this protein.
+
+Durable Response Rate: Researchers conducting clinical trials use this measurement to gauge whether a tumor is responding to treatment. It includes the length of time (usually in months) that a tumor or cancerous area shows improvement as a result of treatment.
+
+Immunology: This refers to the study of the body’s immune system. The immune system defends the body against viruses, bacteria and infections.
+
+Immunotherapy: This cancer therapy uses immunity-boosting treatments to stimulate the body’s immune system to fight cancer cells. Immunotherapy most commonly uses drugs that target PD-1 or CTLA-4. It is also a term that describes other approaches that activate the immune system differently. Learn more about Immunotherapy 
+
+In-transit Melanoma: Melanoma that spreads through small lymphatic channels, the vessels of the immune system, and starts to grow more than 2 centimeters from the primary melanoma tumor.
+
+Lymphadenectomy: This surgery removes lymph nodes in patients who have Stage III or Stage IV melanoma.
+
+MEK: The proteins made by both the MEK gene and BRAF gene act on the same signaling pathway inside cells. Cancer cells send signals through BRAF and MEK allowing them to grow and spread. In combination therapy, MEK-inhibiting drugs may be combined with BRAF inhibitors to slow cancer growth or shrink tumors in some patients.
+
+Metastatic Melanoma: Stage IV melanoma that has spread from the original lesion to distant sites in the skin, lymph nodes, brain, or organs such as the liver or lungs.
+
+Overall Survival Rate: This statistic refers to the percentage of people who survive a certain type of cancer for a specified amount of time following their initial diagnosis. An overall survival rate typically refers to a period of five or 10 years.
+
+PD-1: A protein found on the surface of immune system T cells and other white blood cells. It is used to signal the cells to shut down so that the immune system doesn’t get overstimulated. Cancer cells can activate this PD-1 signal and prematurely shut down T cells. This interferes with the immune system’s ability to detect and destroy cancer cells.
+
+PD-L1: A protein found on the surface of cancer cells that helps them evade detection and destruction by the immune system. PD-L1 interacts with PD-1 to turn off the immune system inappropriately. It is sometimes also called CD274.
+
+Phase I Clinical Trial: During this phase, researchers conduct first-time testing of a new drug or treatment. The goal is to determine safe dosage amounts, check for safety, identify side effects and evaluate early evidence of efficacy.
+
+Phase II Clinical Trial: Phase II expands the drug or treatment testing to a larger group of people often at the dose (or doses) that appear most promising from Phase I trial results. The goal is to continue monitoring for safety, side effects and evidence of efficacy.
+
+Phase III Clinical Trial: This phase expands the drug or treatment testing to hundreds, sometimes thousands, of people. Some patients receive the new, or experimental, treatment alone or in combination with the standard therapy. Other patients may get the standard therapy by itself. The goal is to provide data on efficacy, safety and side effects. The information from Phase III studies is often required to gain regulatory approval from groups like the U.S. Food and Drug Administration (FDA) or the European Medicines Agency (EMA). 
+
+Post-marketing surveillance: After a drug or treatment receives approval for use in the general population, researchers continue to gather information on the drug’s effects including any side effects associated with long-term use.
+
+Radiation Therapy: This treatment uses energy rays, such as X-rays, to destroy cancer cells. Doctors usually use radiation to treat melanoma in patients for whom surgery is a high risk or not possible.
+
+Response Rate: This refers to the percentage of patients whose melanoma tumor decreases in size or becomes undetectable in response to treatment.
+
+Stage 0 Melanoma: Abnormal cells found in the topmost layer of skin. These cells have the potential to become cancerous and spread. Stage 0 also is known as melanoma in situ.
+
+Stage I Melanoma: This refers to cancers that are not more than 2 millimeters thick, are not ulcerated and that haven’t spread.
+
+Stage II Melanoma: This refers to cancers that are between 2 and 4 millimeters thick. They may be ulcerated, but haven’t spread.
+
+Stage III: The cancer is of any thickness and has spread from its primary location to the lymph nodes with no detectable evidence of distant spread.
+
+Stage IV: The cancer has spread from its primary location to one or more distant sites which could be in the skin, lymph nodes, lung, brain or other organs.
+
+Surgical Resection: This primary melanoma treatment involves cutting and removing a cancerous area. Wide local excision can often cure early-stage melanoma.
+
+Systemic: Treatment in which medications travel through the bloodstream to all parts of the body to fight cancers that have spread from their original location. The majority of targeted and immunotherapies are systemic.
+
+Targeted Therapy: A type of drug therapy that aims to shut down abnormal molecules within cancer tumor cells that signal those cells to divide uncontrollably. For instance, BRAF- and MEK-inhibitors target melanomas with specific gene mutations. Learn more about Targeted Therapy
+
+T cells: A type of white blood cell that bolsters immune function and helps the body fight cancer cells. T cells get their name from the thymus gland, the small organ that makes them.
+
+Ulcerated: Melanomas that have grown through the epidermis, or the outermost layer of skin giving the tumor the appearance of an ulcer.
+
+Wild Type: This term describes genes that have no mutation and are normal. For example, some people have melanoma with mutations in BRAF, while others have so-called wild type BRAF melanoma, meaning there’s no known mutation present.
